@@ -1,0 +1,39 @@
+### 参考学习
+- [配置](https://github.com/KaiHotz/react-rollup-boilerplate/blob/master/rollup.config.js)
+
+发布自制React组件到npm全流程 (使用Rollup打包工具)
+https://juejin.cn/post/6934507948911788045
+
+
+使用 rollup 打造自己的 npm 包 (全流程)
+https://juejin.cn/post/6950557086916804645#heading-5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
