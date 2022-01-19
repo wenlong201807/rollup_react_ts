@@ -1,8 +1,4 @@
-<p align="center">Rollup + TypeScript + React = ❤️</p>
-<p align="center">
-  <img src="https://img.shields.io/github/license/saltyshiomix/rollup-typescript-react-starter.svg" alt="Package License (MIT)">
-</p>
-
+<p align="center">Rollup + React + ts</p>
 ## Usage
 
 ```zsh
